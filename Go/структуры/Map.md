@@ -110,3 +110,4 @@ type hmap struct {
 3. https://go.dev/src/runtime/map.go
 4. https://go.dev/src/sync/map.go
 5. https://hackernoon.com/some-insights-on-maps-in-golang-rm5v3ywh
+6. https://medium.com/kalamsilicon/hash-tables-implementation-in-go-48c165c54553
