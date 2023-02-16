@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "fd5ca49d1f35c063",
+    "type": "split",
+    "children": [
+      {
+        "id": "c63ce27a83574929",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "структуры/Map.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ff5a396628dd13af",
+    "type": "split",
+    "children": [
+      {
+        "id": "63134eca9aaabb4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "233421252593ea86",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "437d860b85d704c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Конкурентность ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "14481963dc1cd865",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "c1cb27ec68bac2f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d08ad880a853fb7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19c91f3284429e37",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "структуры/Map.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3c41776962b002b2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "структуры/Map.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8c4677d8b0792fc0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "09c4ec21f932529d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "структуры/Map.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c63ce27a83574929",
+  "lastOpenFiles": [
+    "Pasted image 20230215120006.png",
+    "Pasted image 20230215115804.png",
+    "структуры/Map.md",
+    "структуры.md"
+  ]
+}
